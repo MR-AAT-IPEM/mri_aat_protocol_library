@@ -13,8 +13,8 @@ The information presented below reflects clinical user experiences shared throug
 
 For further information on **MRI AAT** check out:
 - [The IPEM MR AAT T&F Group Webinars](https://www.ipem.ac.uk/resources/other-resources/webinars/advanced-acceleration-technology-in-mri-an-overview/)
-- [The IPEM User Experience Resource](https://www.ipem.ac.uk/resources/mr-advanced-acceleration-technology/) 
- 
+- [The IPEM User Experience Resource](https://www.ipem.ac.uk/resources/mr-advanced-acceleration-technology/)
+
 ## How to use
 - The direcotories in the [MRI AAT Protocol Library](https://github.com/MR-AAT-IPEM/mri_aat_protocol_library) contain example clinical protocols which demonstrate the implementation of **MRI AAT**.
 - Directories are arranged by **manufacturer name**, **scanner model** and **software version** so relevant protocols can be easily found.
@@ -22,5 +22,4 @@ For further information on **MRI AAT** check out:
 
 ## Table of Contents
 - [Siemens Sola XA51 Example AAT Protocols](https://github.com/MR-AAT-IPEM/mri_aat_protocol_library/tree/main/siemens_sola_xa51_aat_example_protocols)
-
-
+- [Philips Ingenia Ambition X R11.1 Example AAT Protocols](https://github.com/MR-AAT-IPEM/mri_aat_protocol_library/tree/main/philips_ingenia_ambition_r11p1_aat_example_protocols)
