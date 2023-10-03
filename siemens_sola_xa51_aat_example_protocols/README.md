@@ -1,6 +1,6 @@
 # Siemens Sola XA51
 
-These example **MRI AAT** sequences are form a Siemens Sola on software XA51 with XQ gradients. These example sequences are taken from common protocols in clinical use within a NHS Trust and are provided as both examples of sequence parameters using AAT and, where appropriate, for use on compatible systems.
+These example **MRI AAT** sequences are from a Siemens Sola on software XA51 with XQ gradients. These example sequences are taken from common protocols in clinical use within a NHS Trust and are provided as both examples of sequence parameters using AAT and, where appropriate, for use on compatible systems.
  
 Currently the following anatomical regions are included:
 - Head and neck
