@@ -1,6 +1,6 @@
 # Siemens Sola XA51
 
-These example **MRI SMS** sequences are from a Siemens Aera. These example sequences are taken from common protocols in clinical use within a NHS Trust and are provided as both examples of sequence parameters using AAT and, where appropriate, for use on compatible systems.
+These example **MRI SMS** sequences are from a Siemens Avanto Fit (BioMatrix), software version MR XA50 and with SQ gradeints 45/200. These example sequences are taken from common protocols in clinical use within a NHS Trust and are provided as both examples of sequence parameters using AAT and, where appropriate, for use on compatible systems.
  
 Currently the following anatomical regions are included:
 - Foot
@@ -15,6 +15,6 @@ Note that in some cases complete protocols are provided, but in general only tho
  
 Both the .exar protocol file (for import onto compatible systems) and pdfs of protocol parameters are provided.
 
- Note that parameters may change if these are not uploaded on to the same scanner hardware/software combination as specified above.
+**Note that parameters may change if these are not uploaded on to the same scanner hardware/software combination as specified above.**
 
 **Disclaimer:** *these protocols are in routine clinical use, but we provide no assurance regarding suitability for clinical use in your institution.  All sequences should be reviewed and approved locally prior to clinical use and we recommend an ongoing review process and assessment of image quality in a broad range of patients prior to local approval to use routinely.*
