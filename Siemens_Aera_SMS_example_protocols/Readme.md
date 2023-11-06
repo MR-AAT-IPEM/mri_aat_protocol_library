@@ -1,6 +1,8 @@
-# Siemens Sola XA51
+# Siemens Aera XA51
 
-These example **MRI SMS** sequences are from a Siemens Avanto Fit (BioMatrix), software version MR XA50 and with SQ gradeints 45/200. These example sequences are taken from common protocols in clinical use within a NHS Trust and are provided as both examples of sequence parameters using AAT and, where appropriate, for use on compatible systems.
+These example **MRI SMS** sequences were developed on a Siemens Aera (BioMatrix), software version MR XA51 and with SQ gradients 45/200, and used on a Siemens AvantoFit scanner (software version MR XA51 and with SQ gradients 45/200).  hese example sequences are taken from common protocols in clinical use within a NHS Trust and are provided as both examples of sequence parameters using AAT and, where appropriate, for use on compatible systems.
+
+**Note that Aera / Avanto Fit systems share software and so protocols will work on either an Aera or an Avanto Fit**
  
 Currently the following anatomical regions are included:
 - Foot
