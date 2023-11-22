@@ -22,4 +22,7 @@ For further information on **MRI AAT** check out:
 
 ## Table of Contents
 - [Siemens Sola XA51 Example AAT Protocols](https://github.com/MR-AAT-IPEM/mri_aat_protocol_library/tree/main/siemens_sola_xa51_aat_example_protocols)
+- [Siemens Sola XA51 Example AAT Protocols for Prostate](https://github.com/MR-AAT-IPEM/mri_aat_protocol_library/tree/main/siemens_sola_xa51_prostate_example_protocols)
+- [Siemens Aera Example SMS Protocols](https://github.com/MR-AAT-IPEM/mri_aat_protocol_library/tree/main/Siemens_Aera_SMS_example_protocols)
 - [Philips Ingenia Ambition X R11.1 Example AAT Protocols](https://github.com/MR-AAT-IPEM/mri_aat_protocol_library/tree/main/philips_ingenia_ambition_r11p1_aat_example_protocols)
+- [GE SIGNA Premier & Artist Example AAT Protocols](https://github.com/MR-AAT-IPEM/mri_aat_protocol_library/tree/main/ge_artist_and_premier_aat_example_protocols)
