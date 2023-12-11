@@ -22,7 +22,7 @@ Complete protocols are provided. For sequences with AAT applied look out for Hyp
 
 Sequence parameters are not provided in the PDFs which only give high level summary information. Copying the content of the folder ‘SIGNA Artist’ onto an external storage (blank USB or CD) and loading onto the scanner will upload the complete protocol(s). Information on how to use the Protocol Exchange tool on the scanner is provided in PDF form.
 
-**Note:** *Image quality relies on the use of AATs, if the relevant option keys are not installed then images may be of lower quality (AIR Recon DL), or scan duration may be longer (HyperSense, HyperBand).
+**Note:** *Image quality relies on the use of AATs, if the relevant option keys are not installed then images may be of lower quality (AIR Recon DL), or scan duration may be longer (HyperSense, HyperBand). AIR Recon DL and HyperSense work across a broad range of GE Healthcare MRI scanners, regardless of anatomy, and coils. HyperBand works only for head MRI*
 
 | Option key Guided Install name |	Short name	| Software version |	Protocol Information|
 |---|---|---|---|
