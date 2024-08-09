@@ -13,5 +13,15 @@ Note that in some cases complete protocols are provided, but in general only tho
 Both the .exar protocol file (for import onto compatible systems) and pdfs of protocol parameters are provided.
  
 **Deep Resolve Boost vs Deep Resolve Gain:** note that in some cases Deep Resolve Gain is being used instead of Deep Resolve Boost – this may for technical/artefact reasons or it may be that the protocol was optimised prior to Deep Resolve Boost being available on the system.
+
+
+*Please check protocol parameters when imported against those in the pdfs provided - unexpected changes may be made to sequences on import to systems with different gradient performance or software release version (e.g. changes to the GRAPPA acceleration factor).   If acquisition times look unexpectedly long then it may be that the GRAPPA acceleration factor has been modified on import.*
+ 
+*Sequences that have been optimised with software that is not available on your system, for example compressed sensing, will need further optimisation prior to clinical use.*
+
+<br />
+<br />
+<br />
+
  
 **Disclaimer:** *these protocols are in routine clinical use, but we provide no assurance regarding suitability for clinical use in your institution.  All sequences should be reviewed and approved locally prior to clinical use and we recommend an ongoing review process and assessment of image quality in a broad range of patients prior to local approval to use routinely.*
